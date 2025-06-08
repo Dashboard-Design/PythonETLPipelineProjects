@@ -1,11 +1,12 @@
 # PythonETLPipelineProjects 📊
 
-![Image](https://github.com/user-attachments/assets/f5b37ca3-87d2-447b-a457-69c549567fed)
-
 Welcome to **PythonETLPipelineProjects**! This repository showcases my Python projects and DataCamp course progress on ETL/ELT data pipelines and data warehousing. It’s a practical resource for:  
 - Aspiring data engineers 🚀  
 - Developers seeking Python data pipeline examples 🐍  
-- Learners interested in data warehousing 📚  
+- Learners interested in data warehousing 📚
+  
+![Image](https://github.com/user-attachments/assets/f5b37ca3-87d2-447b-a457-69c549567fed)
+
 
 ## Contents 📋
 
