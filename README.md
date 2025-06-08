@@ -17,13 +17,13 @@ This repo is designed to be a practical resource for:
 
 ### DataCamp Courses
 
-1- **ETL and ELT in Python**
+1. **ETL and ELT in Python**
 - Learned to build performant data pipelines using Python libraries (e.g., pandas, json).
 - Covered extraction from structured/unstructured sources, transformation techniques, and loading data into target systems.
 - Explored pipeline validation, unit testing, and monitoring for reliability.
 
 
-2- **Data Warehousing Concepts**
+2. **Data Warehousing Concepts**
 - Studied data warehouses, data marts, and data lakes.
 - Compared Bill Inmon's top-down and Ralph Kimball's bottom-up approaches.
 - Mastered Kimball's four-step data modeling process and handling slowly changing dimensions.
